@@ -34,9 +34,9 @@ The project utilizes the following algorithms:
     * `Latest = (Lattest + Lattrain1 + Lattrain2) / 3`
     * `Lonest = (Lontest + Lontrain1 + Lontrain2) / 3`
 * **SIFT-based Triangulation:** Calculates a weighted average of training image locations, weighted by the number of feature matches. 
-    * (See presentation for detailed formulas)
+    * (See pdf for detailed formulas)
 * **AKAZE:** Similar to SIFT-based, using normalized similarity scores as weights. 
-    * (See presentation for detailed formulas)
+    * (See pdf for detailed formulas)
 
 ## Challenges
 
